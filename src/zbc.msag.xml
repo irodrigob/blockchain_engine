@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZBC</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>BC - Message class</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBC</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp; &amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBC</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Type data is not valid</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBC</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Error to obtain the ID</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBC</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>The id request is mandatory</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBC</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>The blockchain process is running</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBC</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>There are no requests to process</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBC</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>The id request &amp; doesn&apos;t exist</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBC</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Request deleted successfully</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBC</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Error to delete the requests</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBC</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Mandatorys parameters</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBC</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Cannot determine start block on the id &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBC</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>The ID block &amp; has no previous hash calculated</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBC</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Job &amp; planned correctly</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBC</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>No data has been found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZBC</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>The block id &amp; has no blocks</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
